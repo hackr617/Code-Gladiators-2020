@@ -1,6 +1,11 @@
 ''' Read input from STDIN. Print your output to STDOUT '''
     #Use input() to read input from STDIN and use print to write your output to STDOUT
 
+'''
+A player wins the game only if his battle power is strictly higher than the opponents battle power.
+We have to find the optimal arrangement of our team such that we win the most number of games possible.
+'''
+
 def main():
 
  # Write code here 
@@ -21,8 +26,6 @@ def main():
         for item in text_input_Opponent.split():
             Opponents.append(int(item))
 
-        win_count=0
-
 
     # To fight in an optimal manner, player power should be
     # strictly higher to win the fight, but the difference with
@@ -31,11 +34,11 @@ def main():
 
     # So we basically use a greedy algorithm, and match the 
     # smallest possible value greater than the opponents value.
-    # We use a flag 0 to see if that value is available
 
         Opponents.sort()
         Players.sort()
 
+        win_count=0
 
         for item in Opponents:
             minimum_number=0
