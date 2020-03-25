@@ -14,7 +14,7 @@ The second round has three levels in which we have to demonstrate our expertise 
 2. Online Hackathon
 3. Offline Hackathon
 
-In the first level, we have to register an account on Microsoft Azure and submit a valid screenshot showing that you have taken the necessary steps. In the second level, we have to solve the problem statement given in the Azure Platform and submit the source code as well as a readme.txt and presentation showing the functionalities of your application, the problem it solves and why it should be considered for the final round. Me and my teammate Mohan are planning on building an application that measures GSR (Galvanic Skin Response) in corporate employees to monitor stress levels and use Azures Cloud Platform to store our data and gain insights.
+In the first level, we have to register an account on Microsoft Azure and submit a valid screenshot showing that you have taken the necessary steps. In the second level, we have to solve the problem statement given in the Azure Platform and submit the source code as well as a readme.txt and presentation showing the functionalities of your application, the problem it solves and why it should be considered for the final round. Me and my teammate Mohan are planning on building an application that measures GSR (Galvanic Skin Response) in corporate employees to monitor stress levels and use Azure Cloud to store our data and gain insights with Machine Learning.
 
 ![alt text](./images/GSR-electrode-locations.jpg)
 
