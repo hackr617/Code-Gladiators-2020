@@ -1,5 +1,7 @@
 ## TechGig CodeGladiators 2020
 
+![alt text](./images/techgig.jpeg)
+
 This repository contains solutions to TechGig CodeGladitors contest. Code Gladiators is an annual coding competition by TechGig, that draws the best and the brightest coding talent from all over India. With multiple contests in emerging technologies and the coveted title of Code Gladiators up for grabs, the competition sees enthusiastic participation and has grown from strength to strength with each passing year. In the initial Open Coding Round, there have been 6458 registrations at the time of this writing.
 I tried organizing this repository neatly into folders, but I removed them later because Git does not track directories on their own. So I will try to be as descriptive as possible in the README.md and in the code comments.
 
