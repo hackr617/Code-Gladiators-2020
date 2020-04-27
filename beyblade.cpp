@@ -1,9 +1,3 @@
-/* Read input from STDIN. Print your output to STDOUT*/
-#include<stdio.h>
-#include<algorithm>
-#include<vector>
-#include<iostream>
-
 /*
 
 A player wins the game only if his battle power is strictly higher than the opponents battle power.
@@ -13,8 +7,14 @@ To fight in an optimal manner, player power should be strictly higher to win the
 but the difference with the opponent power should be minimum to avoid wastage as that battle power 
 could be used elsewhere. So we basically use a greedy algorithm, and match the smallest possible 
 value greater than the opponents value.
+
 */
 
+
+#include<stdio.h>
+#include<algorithm>
+#include<vector>
+#include<iostream>
 
 int main(int argc, char *a[])
 {

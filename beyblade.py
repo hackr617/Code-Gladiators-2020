@@ -1,6 +1,3 @@
-''' Read input from STDIN. Print your output to STDOUT '''
-    #Use input() to read input from STDIN and use print to write your output to STDOUT
-
 '''
 A player wins the game only if his battle power is strictly higher than the opponents battle power.
 We have to find the optimal arrangement of our team such that we win the most number of games possible.

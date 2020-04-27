@@ -1,9 +1,3 @@
-/* Read input from STDIN. Print your output to STDOUT*/
-#include<stdio.h>
-#include<algorithm>
-#include<vector>
-#include<iostream>
-
 /*
 The first line of input consists of the number of ingredients, N
 
@@ -15,6 +9,12 @@ quantity of each ingredient present in the laboratory.
 
 Print the maximum number of powerpuff girls that can be created
 */
+
+
+#include<stdio.h>
+#include<algorithm>
+#include<vector>
+#include<iostream>
 
 int main(int argc, char *a[])
 {
