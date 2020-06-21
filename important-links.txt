@@ -1,30 +1,23 @@
-Azure Hackathon Resources
+Important Links
 
+1. Azure Hackathon Resources
 - https://www.microsoft.com/en-us/dev-community/Event/Register?eventId=HackathonRegistration_KkheN1AaAYAO&ocid=aid2423361
 
-Learning Resources for Azure
-
+2. Learning Resources for Azure
 - https://docs.microsoft.com/en-us/learn/?ocid=aid2423361_ThankYou_DevComm&eventId=HackathonRegistration_KkheN1AaAYAO
 
-
-Azure Products 
-
+3. Azure Products 
 - https://azure.microsoft.com/en-us/services/?ocid=aid2423361_ThankYou_DevComm&eventId=HackathonRegistration_KkheN1AaAYAO
 
-
-The Developers Guide to Azure
-
+4. The Developers Guide to Azure
 - https://azure.microsoft.com/en-us/campaigns/developer-guide/?ocid=aid2423361_ThankYou_DevComm&eventId=HackathonRegistration_KkheN1AaAYAO
 
-
-Azure for Python Developers
-
+5. Azure for Python Developers
 - https://docs.microsoft.com/en-us/azure/python/?ocid=aid2423361_ThankYou_DevComm&eventId=HackathonRegistration_KkheN1AaAYAO
 
-
-What is GSR (Galvanic Skin Response)
+6. What is GSR (Galvanic Skin Response)
 - https://imotions.com/blog/gsr/
 
-Grove GSR Sensor
+7. Grove GSR Sensor
 - https://www.thingbits.net/products/grove-gsr-sensor?utm_source=google&utm_medium=cpc&gclid=EAIaIQobChMInI_SxIy26AIVhRuPCh0vcQUYEAYYASABEgKCXPD_BwE
 
